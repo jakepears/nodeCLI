@@ -1,0 +1,16 @@
+{
+  "name": "nodecli",
+  "version": "1.0.0",
+  "description": "This is an npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },"dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  },
+  "author": "jake pearson",
+  "license": "ISC"
+}
